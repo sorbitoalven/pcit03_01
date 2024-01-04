@@ -1,0 +1,20 @@
+.container{
+    height: 1000px;
+    width: 100%;
+    background-color: green;
+
+}
+.body{
+    color: aliceblue;
+}
+.pic{
+    height: 100px;
+    width: 100px;
+}
+.ap{
+    color: yellowgreen;
+    
+} 
+.OC{
+    color:yellowgreen;
+}
